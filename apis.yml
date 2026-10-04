@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Australia
     description: "Australian Government Open Data"
     humanURL: https://www.data.gov.au/
-    baseURL: https://www.data.gov.au/
     tags:
       - Government
     properties:
